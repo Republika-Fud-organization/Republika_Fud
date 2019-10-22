@@ -47,8 +47,8 @@
 					<h1 class="text-white">
 						Kontakt 
 					</h1>
-					<p class="text-white link-nav"><a href="index.php">Početna </a> <span
-							class="lnr lnr-arrow-right"></span> <a href="contact.html"> Kontakt </a></p>
+					<p class="text-white link-nav"><a title='Početna stranica' href="index.php">Početna </a> <span
+							class="lnr lnr-arrow-right"></span> <a title='Kontakt' href="contact.html"> Kontakt </a></p>
 				</div>
 			</div>
 		</div>
@@ -69,7 +69,7 @@
 						<div class="contact-details">
 							<h5>Pančevo, Srbija</h5>
 							<p>
-								<a href='https://goo.gl/maps/G7ZAu1hTJnHYkxai9'> Zmaj Jove Jovanovića 2 </a>
+								<a title='Redirekcija na Goole Maps' href='https://goo.gl/maps/G7ZAu1hTJnHYkxai9'> Zmaj Jove Jovanovića 2 </a>
 							</p>
 						</div>
 					</div>
@@ -78,7 +78,7 @@
 							<span class="lnr lnr-phone-handset"></span>
 						</div>
 						<div class="contact-details">
-							<h5> <a href='tel:0612272339'> 0612272339 </a> </h5>
+							<h5> <a title='Pozovite nas' href='tel:0612272339'> 0612272339 </a> </h5>
 							<p>Radni dani: 11h - 23h </p>
 							<p> Subota: 14h - 00h</p>
 							<p> Nedelja: 16h - 22h </p>

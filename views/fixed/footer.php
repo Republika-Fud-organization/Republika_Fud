@@ -28,7 +28,7 @@
 									</span>
 								</li>
 								<li class="d-flex justify-content-between">
-									<span> <a class='number'href='tel:0612272339'> 061/2272-339 </a> </span>
+									<span> <a title='Pozovite nas' class='number'href='tel:0612272339'> 061/2272-339 </a> </span>
 								</li>
 							</ul>
 							
@@ -42,11 +42,11 @@
 							<h4>Društvene mreže</h4>
 							<ul class="hr-list" id="contact">
 								<li class="d-flex justify-content-between">
-									<span> <a target='_blank' href="https://www.facebook.com/republika.fud/" > Facebook </a> </span> 
+									<span> <a title='Republika Fud | Facebook' target='_blank' href="https://www.facebook.com/republika.fud/" > Facebook </a> </span> 
 									<span>  </span>
 								</li>
 								<li class="d-flex justify-content-between">
-									<span> <a target='_blank' href="https://www.instagram.com/republika.fud/"> Instagram </a></span>
+									<span> <a title='Republika Fud | Instagram' target='_blank' href="https://www.instagram.com/republika.fud/"> Instagram </a></span>
 									<span></span>
 								</li>
 							</ul>
@@ -62,13 +62,13 @@
 						<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 						Copyright &copy;<script>
 							document.write(new Date().getFullYear());
-						</script> Sva prava zadržana | <a id='colorlib' href="https://colorlib.com" target="_blank">Colorlib</a><a href="https://www.linkedin.com/in/lenka-%C5%BEivkovi%C4%87/" target="_blank"> Lenka Živković</a>
+						</script> Sva prava zadržana | <a id='colorlib' href="https://colorlib.com" target="_blank">Colorlib</a><a title='Lenka Živković | Linkedin' href="https://www.linkedin.com/in/lenka-%C5%BEivkovi%C4%87/" target="_blank"> Lenka Živković</a>
 						<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 					</p>
 					<ul class="col-lg-4 col-mdcol-sm-6 -6 social-icons text-right">
-						<li><a target='_blank' href="https://www.facebook.com/republika.fud/"><i class="fa fa-facebook"></i></a></li>
-						<li><a target='_blank' href="https://www.instagram.com/republika.fud/"><i class="fa fa-instagram"></i></a></li>
-						<li><a href="#"><i class="fa fa-sitemap"></i></a></li>
+						<li><a title='Republika Fud | Facebook' target='_blank' href="https://www.facebook.com/republika.fud/"><i class="fa fa-facebook"></i></a></li>
+						<li><a title='Republika Fud | Instagram' target='_blank' href="https://www.instagram.com/republika.fud/"><i class="fa fa-instagram"></i></a></li>
+						<li><a title='Republika Fud | Sitemap' href="#"><i class="fa fa-sitemap"></i></a></li>
 					</ul>
 				</div>
 			</div>
@@ -76,7 +76,7 @@
 	</footer>
 
 	<div class="gototop js-top">
-		<a href="#" class="js-gotop"><i class="fa fa-arrow-up"></i></a>
+		<a title='Vratite se na početak stranice' href="#" class="js-gotop"><i class="fa fa-arrow-up"></i></a>
 	</div>
 
 	<!-- Begin links -->

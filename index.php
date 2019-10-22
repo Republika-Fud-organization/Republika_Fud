@@ -54,7 +54,7 @@
 						je rezultirala burgerima i kobasicama premium ukusa, napravljene po jedinstvenoj recepturi.
 
 					</p>
-					<a href="about.php" class="primary-btn">Pročitajte više</a>
+					<a title='Redrekcija na stranicu O nama' href="about.php" class="primary-btn">Pročitajte više</a>
 				</div>
 				<div class="col-lg-6 home-about-right">
 					<img class="img-fluid" src="img/about/DRM_4516.jpg" alt="Slika hrane iz restorana">
@@ -71,7 +71,7 @@
 				<div class="menu-content pb-70 col-lg-8">
 					<div class="title text-center">
 						<h1 class="mb-10"> Šta vam se danas jede? </h1>
-						<p> <a href='menu.php'> Online naručivanje  </a>direktno sa našeg sajta </p>
+						<p> <a title='Redirekcija na stranicu Online naručivanje' href='menu.php'> Online naručivanje  </a>direktno sa našeg sajta </p>
 					</div>
 				</div>
 			</div>

@@ -3,7 +3,7 @@
 					<div class="row" id="recommendation">
 						<div class="active-review-carusel">
 							<div class="single-review">
-								<img src="img/review/aleksandar.png" alt="">
+								<img src="img/review/aleksandar.png" alt="Aleksandar Maksimović">
 								<h4>Aleksandar Maksimović</h4>
 								<div class="star">
 									<span class="fa fa-star checked"></span>
@@ -17,7 +17,7 @@
 								</p>
 							</div>
 							<div class="single-review">
-								<img src="img/review/milos.png" alt="">
+								<img src="img/review/milos.png" alt="Miloš Vujović">
 								<h4> Miloš Vujović </h4>
 								<div class="star">
 									<span class="fa fa-star checked"></span>
@@ -31,7 +31,7 @@
 								</p>
 							</div>	
 							<div class="single-review">
-								<img src="img/review/darko.png" alt="">
+								<img src="img/review/darko.png" alt="Darko Lobor">
 								<h4>Darko Lobor</h4>
 								<div class="star">
 									<span class="fa fa-star checked"></span>
@@ -45,7 +45,7 @@
 								</p>
 							</div>
 							<div class="single-review">
-								<img src="img/review/jovana.png" alt="">
+								<img src="img/review/jovana.png" alt="Jovana Arsenov">
 								<h4>Jovana Arsenov</h4>
 								<div class="star">
 									<span class="fa fa-star checked"></span>

@@ -121,10 +121,10 @@ poslužena na takav način da osetite najbolje od svakog ukusa.
 									<img src="img/about/DRM_4541.jpg" alt="Pivo ">
 								</div>
 								<a title="Pivara Publika" href="#">
-									<h4>Kraft piva iz pivare <i> Publika </i></h4>
+									<h4>Kraft piva iz paba <i> Publika </i></h4> 
 								</a>	
 								<p>
-									U saradnji sa pivarom <i> Publika </i> uz odličan izbor hrane možete uživati i u velikom izboru kraft piva.
+									U saradnji sa pabom <i> Publika </i> uz odličan izbor hrane možete uživati i u velikom izboru kraft piva.
 								</p>
 							</div>
 						</div>												

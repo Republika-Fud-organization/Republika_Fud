@@ -68,7 +68,7 @@
 					<ul class="col-lg-4 col-mdcol-sm-6 -6 social-icons text-right">
 						<li><a title='Republika Fud | Facebook' target='_blank' href="https://www.facebook.com/republika.fud/"><i class="fa fa-facebook"></i></a></li>
 						<li><a title='Republika Fud | Instagram' target='_blank' href="https://www.instagram.com/republika.fud/"><i class="fa fa-instagram"></i></a></li>
-						<li><a title='Republika Fud | Sitemap' href="#"><i class="fa fa-sitemap"></i></a></li>
+						<li><a title='Republika Fud | Sitemap' href="sitemap.xml"><i class="fa fa-sitemap"></i></a></li>
 					</ul>
 				</div>
 			</div>

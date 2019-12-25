@@ -69,13 +69,15 @@
 			
 
 			<div class="filters-content" id='meni'>
-			<div id="donesi-embed"><small><a href="https://www.donesi.com/beograd/republikafud-dostava-2285.php" target="_blank">Powered by Donesi.com</a></small></div>
-				<div class="row grid" id='meniContainer'>
+			<div id="donesi-embed">
+				<iframe src="https://whitelabel.donesi.com/rs-2285-republica-fud"></iframe>
+			</div>
+				<!-- <div class="row grid" id='meniContainer'> 
 					<div id='smallContainer'>
 						
 						
 					</div>
-				</div>
+				</div> -->
 			</div>
 
 		</div>

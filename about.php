@@ -45,7 +45,7 @@
 							<h1 class="text-white">
 								O nama				
 							</h1>	
-							<p class="text-white link-nav"><a title='Početna stranica' href="index.php">Početna </a>  <span class="lnr lnr-arrow-right"></span>  <a title='O nama' href="about.php"> O nama</a></p>
+							<p class="text-white link-nav"><a title='Početna stranica' href="index">Početna </a>  <span class="lnr lnr-arrow-right"></span>  <a title='O nama' href="about.php"> O nama</a></p>
 						</div>	
 					</div>
 				</div>
@@ -66,7 +66,7 @@ poslužena na takav način da osetite najbolje od svakog ukusa.
 </br> </br>
 								Ako niste u mogućnosti da nas posetite uživo vršimo i uslugu dostave hrane na vašu kućnu adresu.
 							</p>
-							<a title='Online poručivanje' href="menu.php" class="primary-btn">Naš meni</a>
+							<a title='Online poručivanje' href="menu" class="primary-btn">Naš meni</a>
 						</div>
 						<div class="col-lg-6 home-about-right">
 							<img class="img-fluid" src="img/about/DRM_4516.jpg" alt="Slika piva i hrane iz restorana">
@@ -93,7 +93,7 @@ poslužena na takav način da osetite najbolje od svakog ukusa.
 								<div class="thumb">
 									<img src="img/about/DRM_4491.jpg" alt="Sočni burgeri">
 								</div>
-								<a title='Online poručivanje' href="menu.php">
+								<a title='Online poručivanje' href="menu">
 									<h4>Sočni burgeri</h4>
 								</a>
 								<p>
@@ -107,7 +107,7 @@ poslužena na takav način da osetite najbolje od svakog ukusa.
 								<div class="thumb">
 									<img src="img/about/DRM_4436.jpg" alt="Domaće kobasice">
 								</div>
-								<a title='Online poručivanje' href="menu.php">
+								<a title='Online poručivanje' href="menu">
 									<h4>Domaće kobasice</h4>
 								</a>	
 								<p>

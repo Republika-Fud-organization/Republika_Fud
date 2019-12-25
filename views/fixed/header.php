@@ -3,7 +3,7 @@
 					<div class="container">
 				  		<div class="row justify-content-center">
 						      <div id="logo">
-						        <a title='Republika Fud' href="index.php"><img src="img/logo/logo_mala_bela.png" alt="logo" title="" /></a>
+						        <a title='Republika Fud' href="index"><img src="img/logo/logo_mala_bela.png" alt="logo" title="" /></a>
 						      </div>
 				  		</div>			  					
 					</div>

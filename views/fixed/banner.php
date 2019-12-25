@@ -8,7 +8,7 @@
 							<p class="text-white">
 								Čekamo vas u republici dobrog ukusa - <i> Republici Fud</i>
 							</p>
-							<a href="menu.php" class="primary-btn text-uppercase">Pogledajte naš meni</a>
+							<a href="menu" class="primary-btn text-uppercase">Pogledajte naš meni</a>
 						</div>
 					</div>
 				</div>					

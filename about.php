@@ -45,7 +45,7 @@
 							<h1 class="text-white">
 								O nama				
 							</h1>	
-							<p class="text-white link-nav"><a title='Početna stranica' href="index">Početna </a>  <span class="lnr lnr-arrow-right"></span>  <a title='O nama' href="about.php"> O nama</a></p>
+							<p class="text-white link-nav"><a title='Početna stranica' href="index">Početna </a>  <span class="lnr lnr-arrow-right"></span>  <a title='O nama' href="about"> O nama</a></p>
 						</div>	
 					</div>
 				</div>

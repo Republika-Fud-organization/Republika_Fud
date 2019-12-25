@@ -47,7 +47,7 @@
 					<h1 class="text-white">
 						Online naručivanje
 					</h1>
-					<p class="text-white link-nav"><a title='Početna stranica' href="index.php">Početna </a> <span class="lnr lnr-arrow-right"></span> <a title='Online naručivanje' href="menu.php"> Online naručivanje</a></p>
+					<p class="text-white link-nav"><a title='Početna stranica' href="index">Početna </a> <span class="lnr lnr-arrow-right"></span> <a title='Online naručivanje' href="menu"> Online naručivanje</a></p>
 				</div>
 			</div>
 		</div>

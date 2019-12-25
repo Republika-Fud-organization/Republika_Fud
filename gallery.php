@@ -48,7 +48,7 @@
 							<h1 class="text-white">
 								Galerija				
 							</h1>	
-							<p class="text-white link-nav"><a title='Početna stranica' href="index.php">Početna </a>  <span class="lnr lnr-arrow-right"></span>  <a title='Galerija' href="gallery.php"> Galerija</a></p>
+							<p class="text-white link-nav"><a title='Početna stranica' href="index">Početna </a>  <span class="lnr lnr-arrow-right"></span>  <a title='Galerija' href="gallery"> Galerija</a></p>
 						</div>	
 					</div>
 				</div>

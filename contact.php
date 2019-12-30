@@ -47,8 +47,8 @@
 					<h1 class="text-white">
 						Kontakt 
 					</h1>
-					<p class="text-white link-nav"><a title='Početna stranica' href="index">Početna </a> <span
-							class="lnr lnr-arrow-right"></span> <a title='Kontakt' href="contact"> Kontakt </a></p> 
+					<p class="text-white link-nav"><a title='Početna stranica' href="index.php">Početna </a> <span
+							class="lnr lnr-arrow-right"></span> <a title='Kontakt' href="contact.php"> Kontakt </a></p> 
 				</div>
 			</div>
 		</div>
